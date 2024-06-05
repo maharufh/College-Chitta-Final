@@ -1,2 +1,2 @@
-"# College-Chitta-Final" 
+College Chitta Website
 
